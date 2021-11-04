@@ -19,8 +19,8 @@ ArticleList.propTypes = {
   articles: PropTypes.arrayOf(
     PropTypes.shape({
       title: PropTypes.string.isRequired,
-      description: PropTypes.string.isRequired,
-      content: PropTypes.string.isRequired,
+      description: PropTypes.string,
+      content: PropTypes.string,
     })
   ),
 };

@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { fetchNews } from '../../services/NewsApi';
 import ArticleList from '../components/articles/ArticleList';
 
-class NewsContainer extends React.Component {
+class NewsContainer extends Component {
   state = {
     loading: true,
     news: [],
