@@ -1,8 +1,9 @@
+import PropTypes from 'prop-types';
 import React, { Component } from 'react';
 import Article from './Article';
 
-const ArticleList = ({ articles }) => {
-  const articleList = articles.map((article) => (
+const ArticleList = ({ news }) => {
+  const articleList = news.map((article) => (
     <li key={article.title}>
       <Article
         title={article.title}
@@ -11,7 +12,17 @@ const ArticleList = ({ articles }) => {
       />
     </li>
   ));
-  return <ul>{ArticleList}</ul>;
+  return <ul>{articleList}</ul>;
+};
+
+ArticleList.propTypes = {
+  articles: PropTypes.arrayOf(
+    PropTypes.shape({
+      title: PropTypes.string.isRequired,
+      description: PropTypes.string.isRequired,
+      content: PropTypes.string.isRequired,
+    })
+  ),
 };
 
 export default ArticleList;

@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types';
 import React, { Component } from 'react';
 
 const Article = ({ title, description, content }) => (
@@ -7,5 +8,11 @@ const Article = ({ title, description, content }) => (
     <p>{content}</p>
   </article>
 );
+
+Article.propTypes = {
+  title: PropTypes.string.isRequired,
+  description: PropTypes.string.isRequired,
+  content: PropTypes.string.isRequired,
+};
 
 export default Article;

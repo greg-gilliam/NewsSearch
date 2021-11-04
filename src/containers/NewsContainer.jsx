@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { fetchNews } from '../../services/NewsApi';
+import ArticleList from '../components/articles/ArticleList';
 
 class NewsContainer extends React.Component {
   state = {
@@ -21,7 +22,7 @@ class NewsContainer extends React.Component {
     if (loading) {
       return <h1>Loading...</h1>;
     }
-    return <div>Here are your top articles!</div>;
+    return <ArticleList news={news} />;
   }
 }
 
