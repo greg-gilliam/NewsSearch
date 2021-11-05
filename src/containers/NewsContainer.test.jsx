@@ -11,8 +11,8 @@ describe('News Container', () => {
     const ul = await screen.findByRole('list', { name: 'searchResult' });
     expect(ul).toMatchSnapshot();
 
-    const searchInput = await screen.findByLabelText('inputField');
-    userEvent.type(searchInput, expect.any(String));
+    const searchInput = await screen.findByLabelText('Search for an article!');
+    // userEvent.type(searchInput, expect.any(String));
 
     const submitButton = await screen.findByRole('button', {
       name: 'get-news',
@@ -20,8 +20,8 @@ describe('News Container', () => {
 
     userEvent.click(submitButton);
 
-    return waitFor(() => {
-      const yourNews = screen.getAllByText('');
+    await waitFor(() => {
+      const yourNews = screen.getAllByTitle('theTitle');
       expect(yourNews).toHaveLength(5);
     });
   });

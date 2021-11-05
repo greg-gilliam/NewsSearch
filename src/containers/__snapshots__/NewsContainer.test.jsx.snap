@@ -6,71 +6,75 @@ exports[`News Container Displays a list of articles 1`] = `
 >
   <li>
     <article>
-      <p>
-        Egy újabb izgalmas Skoda, íme az új Slavia - hvg.hu
+      <p
+        title="theTitle"
+      >
+        El primer modelo llega en 2023: Volkswagen regional anuncia inversión de US$ 1.260 millones - La Tercera
       </p>
       <p>
-        A VW-konszern cseh márkája nem sokkal a hivatalos leleplezés előtt kedvcsináló képeket adott ki az új modellről.
+        La marca volverá a fijar sus desarrollos en los autos compactos. El pionero de esta nueva era será el llamado Polo Track.
       </p>
       <p>
-        A VW-konszern cseh márkája nem sokkal a hivatalos leleplezés eltt kedvcsináló képeket adott ki az új modellrl.A Skoda tavaly nyáron elrukkolt egy Slavia nevezet kocsival, mely tulajdonképpen nem más,… [+867 chars]
-      </p>
-    </article>
-  </li>
-  <li>
-    <article>
-      <p>
-        Recibos de luz bajan desde este jueves para usuarios residenciales, comerciales e industriales - infobae
-      </p>
-      <p>
-        El Osinergmin detalló que la actualización tiene lugar en las actividades de generación, transmisión y distribución eléctrica.
-      </p>
-      <p>
-        Algo de alivio en medio de la incertidumbre política de los últimos días. A partir de este 4 de noviembre del 2021, las tarifas eléctricas del Sistema Eléctrico Interconectado Nacional (SEIN) experim… [+2369 chars]
+        Volkswagen de Brasil informó este viernes que, tras estar varias temporadas centrada en el desarrollo de SUVs -cronológicamente, el T-Cross (2018), el Nivus (2020) y el Taos (2020)- volverá a centrar… [+1580 chars]
       </p>
     </article>
   </li>
   <li>
     <article>
-      <p>
-        Binance rastrea a estafadores de criptomoneda inspirada en 'Squid Game' - El CEO
+      <p
+        title="theTitle"
+      >
+        Electric-Van Maker Workhorse Is Being Investigated by the Justice Department, Documents Show - The Wall Street Journal
       </p>
       <p>
-        Binance, una de las mayores plataformas para comercializar activos digitales, dijo este jueves que creó un equipo de investigadores para intentar rastrear a los estafadores de la criptomoneda de Squid Game. El token SQUID, que se inspiró en la exitosa serie “…
+        Inquiry adds to an SEC probe and comes after the company changed management, suffered production setbacks
       </p>
       <p>
-        4 de noviembre 2021 | 4:12 pm
-Binance, una de las mayores plataformas para comercializar activos digitales, dijo este jueves que creó un equipo de investigadores para intentar rastrear a los estafad… [+1976 chars]
-      </p>
-    </article>
-  </li>
-  <li>
-    <article>
-      <p>
-        Uber registra ganancia operativa, pero decepciona a Wall Street Por Reuters - Investing.com España
-      </p>
-      <p>
-        Uber registra ganancia operativa, pero decepciona a Wall Street
-      </p>
-      <p>
-        Por Tina Bellon y Nivedita Balu
-4 nov (Reuters) - Uber Technologies (NYSE:UBER) Inc reportó el jueves su primer trimestre rentable sobre una base ajustada desde que se lanzó hace más de una década.
-… [+1439 chars]
+        The Justice Department has opened an investigation into electric-van startup Workhorse Inc., according to documents reviewed by The Wall Street Journal.
+The focus of the inquiry, which the U.S. atto… [+72 chars]
       </p>
     </article>
   </li>
   <li>
     <article>
-      <p>
-        VW CEO is facing a no-confidence vote after telling the truth about the need to go electric fast - Electrek.co
+      <p
+        title="theTitle"
+      >
+        Saiba como identificar e se proteger de golpes durante a Black Friday - Tudo Bahia
       </p>
       <p>
-        Volkswagen CEO Herbert Diess is in hot water. He’s apparently facing a no-confidence vote after pressure from the automaker’s worker council over his comment about the need to go electric faster. Diess is among the biggest proponents of accelerating electric …
+        Os golpes são mais voltados para o e-commerce. Para quem prefere aproveitar as oportunidades pela internet, todo o cuidado é pouco.
       </p>
       <p>
-        Volkswagen CEO Herbert Diess is in hot water. He’s apparently facing a no-confidence vote after pressure from the automaker’s worker council over his comment about the need to go electric faster.
-Di… [+2488 chars]
+        Uma das melhores oportunidades para se comprar algum produto desejado é durante a Black Friday, que ocorre na última sexta-feira do mês (26/11). Porém, vários fatores devem ser observados para não ca… [+2046 chars]
       </p>
+    </article>
+  </li>
+  <li>
+    <article>
+      <p
+        title="theTitle"
+      >
+        Ambanis Deny Move To UK. This Is Why They Bought 300-Acre Property - NDTV
+      </p>
+      <p>
+        After several reports claimed Reliance Industries chairman Mukesh Ambani and his family are likely to move to London, following their acquisition of Stoke Park estate there, the Reliance group today issued a statement rejecting the "baseless" reports
+      </p>
+      <p>
+        Mukesh Ambani, Asia's richest person, lives with his family in Mumbai. (File)
+New Delhi: After several reports claimed Reliance Industries Limited chairman Mukesh Ambani and his family are likely to… [+1353 chars]
+      </p>
+    </article>
+  </li>
+  <li>
+    <article>
+      <p
+        title="theTitle"
+      >
+        Huawei Mobile Services superó los 730 millones de usuarios en todo el mundo - Revista Semana
+      </p>
+      <p />
+      <p />
     </article>
   </li>
 </ul>

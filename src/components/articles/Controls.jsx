@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import Article from './Article.jsx';
 
 export default function Controls({ query, onChange, onSubmit }) {
   return (
