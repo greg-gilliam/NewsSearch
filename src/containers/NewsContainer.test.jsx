@@ -12,7 +12,6 @@ describe('News Container', () => {
     expect(ul).toMatchSnapshot();
 
     const searchInput = await screen.findByLabelText('Search for an article!');
-    // userEvent.type(searchInput, expect.any(String));
 
     const submitButton = await screen.findByRole('button', {
       name: 'get-news',

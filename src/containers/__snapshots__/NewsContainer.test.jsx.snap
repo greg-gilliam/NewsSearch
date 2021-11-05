@@ -9,72 +9,73 @@ exports[`News Container Displays a list of articles 1`] = `
       <p
         title="theTitle"
       >
-        El primer modelo llega en 2023: Volkswagen regional anuncia inversión de US$ 1.260 millones - La Tercera
+        前三季度我国国际收支基本平衡--经济·科技 - 人民网
       </p>
       <p>
-        La marca volverá a fijar sus desarrollos en los autos compactos. El pionero de esta nueva era será el llamado Polo Track.
-      </p>
-      <p>
-        Volkswagen de Brasil informó este viernes que, tras estar varias temporadas centrada en el desarrollo de SUVs -cronológicamente, el T-Cross (2018), el Nivus (2020) y el Taos (2020)- volverá a centrar… [+1580 chars]
-      </p>
-    </article>
-  </li>
-  <li>
-    <article>
-      <p
-        title="theTitle"
-      >
-        Electric-Van Maker Workhorse Is Being Investigated by the Justice Department, Documents Show - The Wall Street Journal
-      </p>
-      <p>
-        Inquiry adds to an SEC probe and comes after the company changed management, suffered production setbacks
-      </p>
-      <p>
-        The Justice Department has opened an investigation into electric-van startup Workhorse Inc., according to documents reviewed by The Wall Street Journal.
-The focus of the inquiry, which the U.S. atto… [+72 chars]
-      </p>
-    </article>
-  </li>
-  <li>
-    <article>
-      <p
-        title="theTitle"
-      >
-        Saiba como identificar e se proteger de golpes durante a Black Friday - Tudo Bahia
-      </p>
-      <p>
-        Os golpes são mais voltados para o e-commerce. Para quem prefere aproveitar as oportunidades pela internet, todo o cuidado é pouco.
-      </p>
-      <p>
-        Uma das melhores oportunidades para se comprar algum produto desejado é durante a Black Friday, que ocorre na última sexta-feira do mês (26/11). Porém, vários fatores devem ser observados para não ca… [+2046 chars]
-      </p>
-    </article>
-  </li>
-  <li>
-    <article>
-      <p
-        title="theTitle"
-      >
-        Ambanis Deny Move To UK. This Is Why They Bought 300-Acre Property - NDTV
-      </p>
-      <p>
-        After several reports claimed Reliance Industries chairman Mukesh Ambani and his family are likely to move to London, following their acquisition of Stoke Park estate there, the Reliance group today issued a statement rejecting the "baseless" reports
-      </p>
-      <p>
-        Mukesh Ambani, Asia's richest person, lives with his family in Mumbai. (File)
-New Delhi: After several reports claimed Reliance Industries Limited chairman Mukesh Ambani and his family are likely to… [+1353 chars]
-      </p>
-    </article>
-  </li>
-  <li>
-    <article>
-      <p
-        title="theTitle"
-      >
-        Huawei Mobile Services superó los 730 millones de usuarios en todo el mundo - Revista Semana
+        本报北京11月5日电  （记者葛孟超）国家外汇管理局5日公布2021年前三季度国际收支平衡表初步数据。数据显示，2021年前三季度，我国国际收支基本平衡。其中，经常账户顺差20
       </p>
       <p />
-      <p />
+    </article>
+  </li>
+  <li>
+    <article>
+      <p
+        title="theTitle"
+      >
+        American Airlines jacks up flight attendant holiday pay to avoid more flight cancellations - CNBC
+      </p>
+      <p>
+        American Airlines offers as much as triple-flight attendant pay for working holiday trips if they also have perfect attendance through Jan. 2.
+      </p>
+      <p>
+        American Airlines, jolted by mass cancellations last weekend, has offered flight attendants as much as triple their pay to work holiday trips if they also have perfect attendance through early Januar… [+2461 chars]
+      </p>
+    </article>
+  </li>
+  <li>
+    <article>
+      <p
+        title="theTitle"
+      >
+        Alphabet, cada vez más cerca del exclusivo club de 2 billones de dólares - El CEO
+      </p>
+      <p>
+        Alphabet, propietaria de Google, está un paso de superar el valor de mercado de 2 billones de dólares, gracias a un aumento del 69% este año impulsado por un repunte en el gasto en anuncios digitales y el crecimiento de su negocio en la nube. Las acciones sub…
+      </p>
+      <p>
+        5 de noviembre 2021 | 3:52 pm
+Alphabet, propietaria de Google, está un paso de superar el valor de mercado de 2 billones de dólares, gracias a un aumento del 69% este año impulsado por un repunte en… [+1298 chars]
+      </p>
+    </article>
+  </li>
+  <li>
+    <article>
+      <p
+        title="theTitle"
+      >
+        ¿Compraste acciones de Tesla hace 11 años? Tu dinero creció cinco cifras - Dinero en imagen
+      </p>
+      <p>
+        Mientras que los que invirtieron en Tesla en el 2011, tendrán una rentabilidad de cinco cifras.
+      </p>
+      <p>
+        En enero de 2010 Tesla presentó su oferta pública inicial, en ese momento era una empresa emergente de apenas 6 años, más conocida por su vehículo eléctrico Roadster, así que apostar por la empresa d… [+932 chars]
+      </p>
+    </article>
+  </li>
+  <li>
+    <article>
+      <p
+        title="theTitle"
+      >
+        B.C. court rules Edward Rogers is legitimate chair of telecom company - CBC.ca
+      </p>
+      <p>
+        A British Columbia court has ruled that Edward Rogers is the legitimate chair of Rogers Communications Inc., a major legal victory in his battle to take control of the company that bears his family name.
+      </p>
+      <p>
+        A British Columbia court has ruled that Edward Rogers is the legitimate chair of Rogers Communications Inc., a major legal victory in his battle to take control of the company that bears his family n… [+2490 chars]
+      </p>
     </article>
   </li>
 </ul>
