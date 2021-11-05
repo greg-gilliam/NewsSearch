@@ -13,7 +13,7 @@ export default function Controls({ query, onChange, onSubmit }) {
         value={query}
         onChange={(event) => onChange(event)}
       />
-      <button>Submit</button>
+      <button aria-label="get-news">Submit</button>
     </form>
   );
 }

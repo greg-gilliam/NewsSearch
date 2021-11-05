@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`News Container Displays a list of articles 1`] = `
+<ul
+  aria-label="searchResult"
+>
+  <li>
+    <article>
+      <p>
+        Egy újabb izgalmas Skoda, íme az új Slavia - hvg.hu
+      </p>
+      <p>
+        A VW-konszern cseh márkája nem sokkal a hivatalos leleplezés előtt kedvcsináló képeket adott ki az új modellről.
+      </p>
+      <p>
+        A VW-konszern cseh márkája nem sokkal a hivatalos leleplezés eltt kedvcsináló képeket adott ki az új modellrl.A Skoda tavaly nyáron elrukkolt egy Slavia nevezet kocsival, mely tulajdonképpen nem más,… [+867 chars]
+      </p>
+    </article>
+  </li>
+  <li>
+    <article>
+      <p>
+        Recibos de luz bajan desde este jueves para usuarios residenciales, comerciales e industriales - infobae
+      </p>
+      <p>
+        El Osinergmin detalló que la actualización tiene lugar en las actividades de generación, transmisión y distribución eléctrica.
+      </p>
+      <p>
+        Algo de alivio en medio de la incertidumbre política de los últimos días. A partir de este 4 de noviembre del 2021, las tarifas eléctricas del Sistema Eléctrico Interconectado Nacional (SEIN) experim… [+2369 chars]
+      </p>
+    </article>
+  </li>
+  <li>
+    <article>
+      <p>
+        Binance rastrea a estafadores de criptomoneda inspirada en 'Squid Game' - El CEO
+      </p>
+      <p>
+        Binance, una de las mayores plataformas para comercializar activos digitales, dijo este jueves que creó un equipo de investigadores para intentar rastrear a los estafadores de la criptomoneda de Squid Game. El token SQUID, que se inspiró en la exitosa serie “…
+      </p>
+      <p>
+        4 de noviembre 2021 | 4:12 pm
+Binance, una de las mayores plataformas para comercializar activos digitales, dijo este jueves que creó un equipo de investigadores para intentar rastrear a los estafad… [+1976 chars]
+      </p>
+    </article>
+  </li>
+  <li>
+    <article>
+      <p>
+        Uber registra ganancia operativa, pero decepciona a Wall Street Por Reuters - Investing.com España
+      </p>
+      <p>
+        Uber registra ganancia operativa, pero decepciona a Wall Street
+      </p>
+      <p>
+        Por Tina Bellon y Nivedita Balu
+4 nov (Reuters) - Uber Technologies (NYSE:UBER) Inc reportó el jueves su primer trimestre rentable sobre una base ajustada desde que se lanzó hace más de una década.
+… [+1439 chars]
+      </p>
+    </article>
+  </li>
+  <li>
+    <article>
+      <p>
+        VW CEO is facing a no-confidence vote after telling the truth about the need to go electric fast - Electrek.co
+      </p>
+      <p>
+        Volkswagen CEO Herbert Diess is in hot water. He’s apparently facing a no-confidence vote after pressure from the automaker’s worker council over his comment about the need to go electric faster. Diess is among the biggest proponents of accelerating electric …
+      </p>
+      <p>
+        Volkswagen CEO Herbert Diess is in hot water. He’s apparently facing a no-confidence vote after pressure from the automaker’s worker council over his comment about the need to go electric faster.
+Di… [+2488 chars]
+      </p>
+    </article>
+  </li>
+</ul>
+`;
