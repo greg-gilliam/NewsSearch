@@ -7,7 +7,7 @@ describe('News Container', () => {
     render(<NewsContainer />);
     screen.getAllByText('Loading...');
 
-    const ul = await screen.findByRole('list');
+    const ul = await screen.findByRole('list', { name: 'searchResult' });
     expect(ul).not.toBeEmptyDOMElement();
   });
 });

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { fetchNews } from '../../services/NewsApi';
+import { fetchNews, searchNews } from '../../services/NewsApi';
 import ArticleList from '../components/articles/ArticleList';
 import Controls from '../components/articles/Controls';
 
@@ -31,11 +31,10 @@ class NewsContainer extends Component {
     this.setState({
       loading: true,
     });
-    // where are we pulling the query from? state
+
     const searchQuery = this.state.query;
-    // what are we going to do with the query?  call the fetchNews function and pass in the search query
-    const results = await fetchNews(searchQuery);
-    // update news in state with the new info from the api
+    const results = await searchNews(searchQuery);
+
     this.setState({
       news: results,
       loading: false,
@@ -55,7 +54,7 @@ class NewsContainer extends Component {
           onChange={this.queryOnChange}
           onSubmit={this.queryOnSubmit}
         />
-        <ArticleList news={news} />;
+        <ArticleList news={news} />
       </>
     );
   }

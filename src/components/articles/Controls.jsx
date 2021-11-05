@@ -10,7 +10,7 @@ export default function Controls({ query, onChange, onSubmit }) {
         id="inputField"
         name="inputField"
         type="text"
-        // value={query}
+        value={query}
         onChange={(event) => onChange(event)}
       />
       <button>Submit</button>

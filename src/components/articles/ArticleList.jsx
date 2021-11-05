@@ -12,7 +12,7 @@ const ArticleList = ({ news }) => {
       />
     </li>
   ));
-  return <ul>{articleList}</ul>;
+  return <ul aria-label="searchResult">{articleList}</ul>;
 };
 
 ArticleList.propTypes = {
