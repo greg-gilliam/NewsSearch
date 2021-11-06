@@ -9,10 +9,25 @@ exports[`News Container Displays a list of articles 1`] = `
       <p
         title="theTitle"
       >
-        前三季度我国国际收支基本平衡--经济·科技 - 人民网
+        Un sondeo interno de Facebook indica que es nocivo para 1 de cada 8 usuarios - El Comercio Perú
       </p>
       <p>
-        本报北京11月5日电  （记者葛孟超）国家外汇管理局5日公布2021年前三季度国际收支平衡表初步数据。数据显示，2021年前三季度，我国国际收支基本平衡。其中，经常账户顺差20
+        Es por ello que un equipo de la propia compañía emitió una serie de sugerencias para reducir los casos de adicción a la red.
+      </p>
+      <p>
+        Un sondeo llevado a cabo por Facebook halló que la red social resulta nociva para 1 de cada 8 usuarios, al impactar negativamente en su sueño, su trabajo o sus relaciones personales, según publicó es… [+2029 chars]
+      </p>
+    </article>
+  </li>
+  <li>
+    <article>
+      <p
+        title="theTitle"
+      >
+        综述：主要产油国维持增产方案 国际油价显著下跌--经济·科技 - 人民网
+      </p>
+      <p>
+        石油输出国组织（欧佩克）与非欧佩克产油国第22次部长级会议4日以视频方式举行，与会各国决定继续维持原定逐步增产方案。由于许多投资者在消息公布后采取获利了结操作，国际原油期货价格当天震荡走低，收盘时显著
       </p>
       <p />
     </article>
@@ -22,13 +37,13 @@ exports[`News Container Displays a list of articles 1`] = `
       <p
         title="theTitle"
       >
-        American Airlines jacks up flight attendant holiday pay to avoid more flight cancellations - CNBC
+        How To Handle The Market Rally Now; 9 Stocks In Focus - Investor's Business Daily
       </p>
       <p>
-        American Airlines offers as much as triple-flight attendant pay for working holiday trips if they also have perfect attendance through Jan. 2.
+        The Nasdaq is getting extended. Travel stocks are the new hot ticket.
       </p>
       <p>
-        American Airlines, jolted by mass cancellations last weekend, has offered flight attendants as much as triple their pay to work holiday trips if they also have perfect attendance through early Januar… [+2461 chars]
+        Dow Jones futures will open Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally continued to press on to new highs last week, with all the key indexes hitting re… [+10460 chars]
       </p>
     </article>
   </li>
@@ -37,14 +52,13 @@ exports[`News Container Displays a list of articles 1`] = `
       <p
         title="theTitle"
       >
-        Alphabet, cada vez más cerca del exclusivo club de 2 billones de dólares - El CEO
+        La china GWM promete fabricar cinco modelos en la planta de Nissan - La Vanguardia
       </p>
       <p>
-        Alphabet, propietaria de Google, está un paso de superar el valor de mercado de 2 billones de dólares, gracias a un aumento del 69% este año impulsado por un repunte en el gasto en anuncios digitales y el crecimiento de su negocio en la nube. Las acciones sub…
+        Las opciones de la empresa china Great Wall Motor (GWM) de implantarse en la planta de Nissan en Zona Franca ganan fuerza después de la primera visita realizada por técnicos de la compañía para inspeccionar las instalaciones. Su compromiso es invertir 200 mil…
       </p>
       <p>
-        5 de noviembre 2021 | 3:52 pm
-Alphabet, propietaria de Google, está un paso de superar el valor de mercado de 2 billones de dólares, gracias a un aumento del 69% este año impulsado por un repunte en… [+1298 chars]
+        Las opciones de la empresa china Great Wall Motor (GWM) de implantarse en la planta de Nissan en Zona Franca ganan fuerza después de la primera visita realizada por técnicos de la compañía para inspe… [+3370 chars]
       </p>
     </article>
   </li>
@@ -53,28 +67,14 @@ Alphabet, propietaria de Google, está un paso de superar el valor de mercado de
       <p
         title="theTitle"
       >
-        ¿Compraste acciones de Tesla hace 11 años? Tu dinero creció cinco cifras - Dinero en imagen
+        Las nuevas reglas de Apple: un golpe de 8.500 millones para Snap, Facebook, Twitter y YouTube - Expansión.com
       </p>
       <p>
-        Mientras que los que invirtieron en Tesla en el 2011, tendrán una rentabilidad de cinco cifras.
+        La decisión de Apple de cambiar la configuración de privacidad de los iPhone hizo desaparecer cerca de 9.850 millones de dólares (8.500 millones de euros) de ingresos en Snap, Face
       </p>
       <p>
-        En enero de 2010 Tesla presentó su oferta pública inicial, en ese momento era una empresa emergente de apenas 6 años, más conocida por su vehículo eléctrico Roadster, así que apostar por la empresa d… [+932 chars]
-      </p>
-    </article>
-  </li>
-  <li>
-    <article>
-      <p
-        title="theTitle"
-      >
-        B.C. court rules Edward Rogers is legitimate chair of telecom company - CBC.ca
-      </p>
-      <p>
-        A British Columbia court has ruled that Edward Rogers is the legitimate chair of Rogers Communications Inc., a major legal victory in his battle to take control of the company that bears his family name.
-      </p>
-      <p>
-        A British Columbia court has ruled that Edward Rogers is the legitimate chair of Rogers Communications Inc., a major legal victory in his battle to take control of the company that bears his family n… [+2490 chars]
+        La obligación de las aplicaciones de pedir permiso para rastrear a los usuarios con fines publicitarios supone un importante revés para los ingresos de las redes sociales.
+La decisión de Apple de ca… [+402 chars]
       </p>
     </article>
   </li>
