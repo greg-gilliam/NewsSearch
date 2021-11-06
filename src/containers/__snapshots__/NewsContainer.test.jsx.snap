@@ -1,0 +1,96 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`News Container Displays a list of articles 1`] = `
+<ul
+  aria-label="searchResult"
+>
+  <li>
+    <article>
+      <p
+        title="theTitle"
+      >
+        Un sondeo interno de Facebook indica que es nocivo para 1 de cada 8 usuarios - El Comercio Perú
+      </p>
+      <p>
+        Es por ello que un equipo de la propia compañía emitió una serie de sugerencias para reducir los casos de adicción a la red.
+      </p>
+      <p>
+        Un sondeo llevado a cabo por Facebook halló que la red social resulta nociva para 1 de cada 8 usuarios, al impactar negativamente en su sueño, su trabajo o sus relaciones personales, según publicó es… [+2029 chars]
+      </p>
+    </article>
+  </li>
+  <li>
+    <article>
+      <p
+        title="theTitle"
+      >
+        综述：主要产油国维持增产方案 国际油价显著下跌--经济·科技 - 人民网
+      </p>
+      <p>
+        石油输出国组织（欧佩克）与非欧佩克产油国第22次部长级会议4日以视频方式举行，与会各国决定继续维持原定逐步增产方案。由于许多投资者在消息公布后采取获利了结操作，国际原油期货价格当天震荡走低，收盘时显著
+      </p>
+      <p />
+    </article>
+  </li>
+  <li>
+    <article>
+      <p
+        title="theTitle"
+      >
+        How To Handle The Market Rally Now; 9 Stocks In Focus - Investor's Business Daily
+      </p>
+      <p>
+        The Nasdaq is getting extended. Travel stocks are the new hot ticket.
+      </p>
+      <p>
+        Dow Jones futures will open Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally continued to press on to new highs last week, with all the key indexes hitting re… [+10460 chars]
+      </p>
+    </article>
+  </li>
+  <li>
+    <article>
+      <p
+        title="theTitle"
+      >
+        La china GWM promete fabricar cinco modelos en la planta de Nissan - La Vanguardia
+      </p>
+      <p>
+        Las opciones de la empresa china Great Wall Motor (GWM) de implantarse en la planta de Nissan en Zona Franca ganan fuerza después de la primera visita realizada por técnicos de la compañía para inspeccionar las instalaciones. Su compromiso es invertir 200 mil…
+      </p>
+      <p>
+        Las opciones de la empresa china Great Wall Motor (GWM) de implantarse en la planta de Nissan en Zona Franca ganan fuerza después de la primera visita realizada por técnicos de la compañía para inspe… [+3370 chars]
+      </p>
+    </article>
+  </li>
+  <li>
+    <article>
+      <p
+        title="theTitle"
+      >
+        Las nuevas reglas de Apple: un golpe de 8.500 millones para Snap, Facebook, Twitter y YouTube - Expansión.com
+      </p>
+      <p>
+        La decisión de Apple de cambiar la configuración de privacidad de los iPhone hizo desaparecer cerca de 9.850 millones de dólares (8.500 millones de euros) de ingresos en Snap, Face
+      </p>
+      <p>
+        La obligación de las aplicaciones de pedir permiso para rastrear a los usuarios con fines publicitarios supone un importante revés para los ingresos de las redes sociales.
+La decisión de Apple de ca… [+402 chars]
+      </p>
+    </article>
+  </li>
+</ul>
+`;
+
+exports[`News Container Displays an article 1`] = `
+<DocumentFragment>
+  <article>
+    <p
+      title="theTitle"
+    >
+      theTitle
+    </p>
+    <p />
+    <p />
+  </article>
+</DocumentFragment>
+`;
