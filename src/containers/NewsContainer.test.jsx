@@ -2,6 +2,7 @@ import React from 'react';
 import { render, screen, waitFor } from '@testing-library/react';
 import NewsContainer from './NewsContainer';
 import userEvent from '@testing-library/user-event';
+import Article from '../components/articles/Article';
 
 describe('News Container', () => {
   it('Displays a list of articles', async () => {
@@ -23,5 +24,10 @@ describe('News Container', () => {
       const yourNews = screen.getAllByTitle('theTitle');
       expect(yourNews).toHaveLength(5);
     });
+  });
+
+  it('Displays an article', () => {
+    const { asFragment } = render(<Article title="theTitle" />);
+    expect(asFragment()).toMatchSnapshot();
   });
 });

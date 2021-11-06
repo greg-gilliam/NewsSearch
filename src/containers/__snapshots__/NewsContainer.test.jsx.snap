@@ -80,3 +80,17 @@ Alphabet, propietaria de Google, está un paso de superar el valor de mercado de
   </li>
 </ul>
 `;
+
+exports[`News Container Displays an article 1`] = `
+<DocumentFragment>
+  <article>
+    <p
+      title="theTitle"
+    >
+      theTitle
+    </p>
+    <p />
+    <p />
+  </article>
+</DocumentFragment>
+`;
